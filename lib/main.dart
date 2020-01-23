@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'widgets/card.dart';
 
 
-
+// In Flutter, this 'main.dart' file is always run first. Then, 
 void main() => runApp(MyApp());
 
 
