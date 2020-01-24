@@ -64,7 +64,7 @@ class HomeScreen extends StatelessWidget {
           IntroCard(
             name: "Hafidh!",
             imageurl: "http://img1.wikia.nocookie.net/__cb20121115114124/adventuretimewithfinnandjake/images/2/22/Gunter_in_Sign.png",
-            funfact: "I like a lot of different food! Did you know Afghani food is actually damn good???",
+            funfact: "I like stuff!",
             holidaystuff: "I went to Denver to see the lights! Yeet!",
           ),
           IntroCard(
